@@ -89,4 +89,4 @@ if __name__ == "__main__":
             webbrowser.open("www.youtube.com")
 
         elif 'rgit' in query:
-            speak("Why do you want me to speak.....about a college which is already being abused daily by you sir........haa..haa..haa")
+            speak("rgit stands for Rajiv Gandhi Institute Of Technology and you are currently studying in this college....haa haa haa")
